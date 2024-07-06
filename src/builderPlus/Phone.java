@@ -1,4 +1,4 @@
-package BuilderPlus;
+package builderPlus;
 
 public class Phone {
     private String cpu;

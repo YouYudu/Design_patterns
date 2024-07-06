@@ -1,4 +1,4 @@
-package BuilderPlus;
+package builderPlus;
 
 public class Client {
     public static void main(String[] args) {
